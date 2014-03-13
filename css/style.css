@@ -1,0 +1,9 @@
+body{background:#ffe3ce;margin:0;padding:0}
+#aviso{margin:auto;text-align:center;}
+#aviso img{margin:auto;width:60%}
+#chat{height:250px;margin:auto;overflow:auto;width:95%}
+#chatPanel{display:none;position:bottom;margin:auto;text-align:center;width:95%}
+#message{padding:2px 2%;width:95%}
+.invitado{color:#0083ff}
+.invitado,.usuario{margin:0;padding:1px 2px}
+.usuario{color:#aaa}

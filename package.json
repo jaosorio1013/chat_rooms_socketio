@@ -1,0 +1,9 @@
+{
+	"name": "chat_smartelite",
+	"description": "Chat para la plataforma de aprendizaje de Elite Smart",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "latest",
+		"socket.io": "latest"
+	}
+}
